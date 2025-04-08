@@ -5,10 +5,8 @@ Di sini anda akan menemukan beragam project, mulai dari skrip sederhana dan apli
 
 Fokus utama repositori ini meliputi:
 
-Automasi dan scripting
+- Automasi dan scripting
+- Proyek pembelajaran dan eksplorasi konsep
+- Eksperimen dengan data, API, dan algoritma
 
-Proyek pembelajaran dan eksplorasi konsep
-
-Eksperimen dengan data, API, dan algoritma
-
-📬Repositori ini akan terus diperbarui seiring berkembangnya kemampuan dan pengalaman saya dalam dunia pemrograman.
+📬 Repositori ini akan terus diperbarui seiring berkembangnya kemampuan dan pengalaman saya dalam dunia pemrograman.
