@@ -1,7 +1,7 @@
 # 🐍 Python Projects Collection
 Selamat datang di repositori GitHub saya, tempat saya menyimpan berbagai proyek Python yang saya kembangkan sebagai bagian dari proses belajar dan eksplorasi teknologi.
 
-Di sini Anda akan menemukan beragam project, mulai dari skrip sederhana dan aplikasi kecil. Setiap project dirancang untuk mengasah keterampilan, memperluas wawasan, dan menyelesaikan permasalahan tertentu secara efisien.
+Di sini anda akan menemukan beragam project, mulai dari skrip sederhana dan aplikasi kecil. Setiap project dirancang untuk mengasah keterampilan, memperluas wawasan, dan menyelesaikan permasalahan tertentu secara efisien.
 
 Fokus utama repositori ini meliputi:
 
