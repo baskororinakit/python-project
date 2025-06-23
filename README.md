@@ -1,1 +1,1 @@
-# python-project
+# 🐍 Python Projects Collection
